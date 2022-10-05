@@ -154,3 +154,4 @@ cython_debug/
 *.twb
 *.twbr
 volby2022.xlsx
+*.hyper
